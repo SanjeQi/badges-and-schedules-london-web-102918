@@ -1,1 +1,2 @@
-def
+def badge_maker(name)
+  
