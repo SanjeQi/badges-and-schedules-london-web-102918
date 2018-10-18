@@ -14,4 +14,5 @@ def assign_rooms()
   new_arr =[]
   counter = 1
   arr.each do |name|
+    new_arr.push()
 end
