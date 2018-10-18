@@ -27,4 +27,5 @@ def printer(arr)
   assign_rooms(arr).each do |badge|
     puts badge
   end
+end
     
